@@ -1,5 +1,6 @@
 # switch
 A switch statement implementation made for LuaU.
+Utilizes the ability to omit parenthesis; creating that familiar like switch syntax.
 
 # usage
 Copy and paste the function in scope of your script.
